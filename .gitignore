@@ -1,0 +1,8 @@
+node_modules/
+__pycache__/
+*.py[cod]
+.venv/
+output/
+generated/
+review_marks/
+*.log

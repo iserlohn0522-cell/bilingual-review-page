@@ -1,0 +1,31 @@
+{
+  "title": "The Lantern Library v2",
+  "languages": {
+    "source": "English",
+    "target": "中文"
+  },
+  "storage_key": "lantern-library-demo-v2",
+  "page_notes": "page_notes.md",
+  "documents": {
+    "main": {
+      "label": "正文",
+      "docx": "generated/story_v2.docx"
+    },
+    "si": {
+      "label": "补充材料",
+      "docx": "generated/notes_v2.docx"
+    }
+  },
+  "blocks": "output/v2/blocks.json",
+  "translation_work": "output/v2/translation_work.json",
+  "authored": [
+    "translations_v2.json"
+  ],
+  "strict": "output/v2/strict.json",
+  "summary": "output/v2/summary.json",
+  "html": "output/example_review.html",
+  "previous_blocks": "output/v1/blocks.json",
+  "previous_strict": "output/v1/strict.json",
+  "previous_summary": "output/v1/summary.json",
+  "diff": "output/v2/diff_map.json"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "bilingual-review-page",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Offline bilingual Word review pages",
+  "license": "MIT",
+  "engines": {"node": ">=18"},
+  "scripts": {"test": "node check_review_page.cjs --config examples/config_v2.json --out examples/output/browser-check"},
+  "devDependencies": {"playwright": "1.60.0"}
+}
